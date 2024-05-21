@@ -4,3 +4,14 @@ The National Achievement Survey (NAS) is a nationwide survey that evaluates the 
 
 Charts Analysis
 - [Bar Plot Analysis](https://github.com/Abhinay8506/National-Achievement-Survey-Data-Analysis/tree/main/Bar%20plot%20Analysis)
+
+- [Line Plot Analysis](https://github.com/Abhinay8506/National-Achievement-Survey-Data-Analysis/tree/main/Line%20chart%20Analysis)
+
+- [Descriptive Plot Analysis](https://github.com/Abhinay8506/National-Achievement-Survey-Data-Analysis/tree/main/Descriptive%20Analysis)
+
+Dataset
+
+- [Dataset](https://github.com/Abhinay8506/National-Achievement-Survey-Data-Analysis/blob/main/surveydataset.csv)
+
+
+
